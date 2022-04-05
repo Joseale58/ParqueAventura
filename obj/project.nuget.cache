@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYO2qEVPal7NPhDqANIJbRGDjWzI5UEFojkpipNf3chl/yqGsw7kiUqIlIPUAEC19UTSzZQTkmZRd0I1KWG2+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose\\Desktop\\parque_aventura\\parque_aventura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
